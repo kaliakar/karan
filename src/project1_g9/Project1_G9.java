@@ -4,17 +4,10 @@
  */
 package project1_g9;
 
-/**
- *
- * @author Admin
- */
 public class Project1_G9 {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // This main method can be used to start the Blackjack game :)
+        Blackjack.main(args);
     }
-    
 }
+
